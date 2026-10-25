@@ -1,5 +1,5 @@
 1. Title
-Storage Estimator - Main Version
+Estimator
 2. Purpose
 This Python program estimates how much storage space is needed for a set of files. It was created for CS-117 Lab 10 and is now version-controlled with Git.
 3. How to Run
